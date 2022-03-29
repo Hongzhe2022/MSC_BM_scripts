@@ -7,7 +7,10 @@ All script are in the scripts sub-folder, both as python notebooks (.ipynb) and 
 The data has been processed in three steps:
 1. Combining the loom files created during mapping of the data using kallist/bustools filtering and normalization: [Hongze_healthy_2020_10_merged](./scripts/Hongze_healthy_2020_10_merged.ipynb)
 2. 2D UMAP, clustering and downstream analysis: [Hongze_healthy_2020_10_merged_2D](./scipts/Hongze_healthy_2020_10_merged_2D.ipynb)
-3. Hongzhe - please add what you have done here, too.
+3. Figures and analyses for the paper: [20220328revision]( scripts/20220328revision.ipynb)
+4. Removal of doublets [DubletSearch](scripts/DubletSearch.iypnb)
+4. Analysis of doublet removed data [DoubletRemoved](scripts/DoubletRemoved.ipynb)
+5. The Female vs male comparison [Female_male20220316]( scripts/Female_male20220316.ipynb)
 
 
 
