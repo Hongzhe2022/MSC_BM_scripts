@@ -1,5 +1,11 @@
 # MSC_BM_scripts
 
+## How to get the data?
+
+Doewnload the data from [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190965) install Python scanpy, loompy and all the other Python packages loaded in the [Load_GEO_data_analyze_it.ipynb](scripts/Load_GEO_data_analyze_it.ipynb), copy the Python Jupyter notebook and run that.
+
+## How did we analyze the data?
+
 Here we present the scripts used to process the MSC_BM data published on the [NCBI GEO GSE190965](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190965) as well as [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.26.477664v1).
 
 All script are in the scripts sub-folder, both as python notebooks (.ipynb) and html pages. Due to inline graphics these are too big to show here. You need to download them and load the local copies.
