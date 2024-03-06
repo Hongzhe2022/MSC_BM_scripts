@@ -2,7 +2,7 @@
 
 ## How to get the data?
 
-Doewnload the data from [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190965) install Python scanpy, loompy and all the other Python packages loaded in the [Load_GEO_data_analyze_it.ipynb](scripts/Load_GEO_data_analyze_it.ipynb), copy the Python Jupyter notebook and run that.
+Download the data from [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190965) install Python scanpy, loompy and all the other Python packages loaded in the [Load_GEO_data_analyze_it.ipynb](scripts/Load_GEO_data_analyze_it.ipynb), copy the Python Jupyter notebook and run that.
 
 ## How did we analyze the data?
 
